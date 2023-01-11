@@ -6,7 +6,7 @@
 
 ## How to Set your Roles and Permissions
 You can create your own permissions and roles updating the following config files:
-<small>(this files can be found at app/config)<small/>
+(this files can be found at app/config)
 
 **permissions.php** => Create all your permissions
 **permissions_by_role.php** => Each role must have it's permissions
